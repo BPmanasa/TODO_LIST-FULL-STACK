@@ -1,0 +1,41 @@
+.user-png {
+  width: 30px;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navbar-brand {
+  color: rgba(255, 0, 0, 0.836);
+  font-weight: bold;
+}
+
+.btn-nav {
+  background-color: rgba(255, 0, 0, 0.836);
+  border-radius: 5px;
+  padding: 5px 10px;
+  color: white !important;
+  font-weight: bold;
+  border: none;
+  outline: none;
+}
+
+.btn-log {
+  background-color: rgba(255, 0, 0, 0.836);
+  border-radius: 5px;
+  color: white !important;
+  font-weight: bold;
+  border: none;
+  outline: none;
+  padding: 5px 10px;
+  margin-top: 5px;
+}
+.p-tag {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 8px;
+  font-weight: bold;
+  margin: 0;
+}
